@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm John Vincent 👋
 
 **Technical Program Manager · Release Management · AI Adoption at Scale**
 
@@ -26,7 +26,7 @@ I help large engineering organizations ship reliably and adopt AI in the way the
 ## 🔭 Currently
 
 - ✍️ Writing an **"AI in the SDLC"** post series on LinkedIn, every Tuesday and Thursday
-- 📚 Preparing for the **Claude Associate Certification**
+- 📚 Preparing for the **Claude Associate Certification** and **PMI-CPMAI**
 - 🧪 Exploring how AI agents can speed up release planning and delivery
 
 ## 🎯 Open to
@@ -39,7 +39,7 @@ I help large engineering organizations ship reliably and adopt AI in the way the
 
 ## 🤝 Let's connect
 
-- 💼 LinkedIn: [linkedin.com/in/your-handle](https://linkedin.com/in/your-handle)
-- 📧 Email: your.email@example.com
+- 💼 LinkedIn: [https://linkedin.com/in/jvdickson)
+- 📧 Email: jvdickson@gmail.com
 
 If you're hiring for program management or AI transformation, or just want to talk about AI in the software lifecycle, reach out.
